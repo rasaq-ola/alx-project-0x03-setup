@@ -1,4 +1,4 @@
-import type { ButtonProps } from "./interfaces";
+import type { ButtonProps } from "@/interface";
 
 type ButtonColor = "red" | "blue" | "orange" | "green";
 
